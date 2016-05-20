@@ -1,3 +1,4 @@
 1 - feature1
 2 - feature2
 3 - release - sprint 19 - bug fix
+4 - hot fix - master - sprint 19 - hotfix 
